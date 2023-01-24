@@ -6,4 +6,5 @@ From project root dir, run this command:
 
 uvicorn firstapi:app --reload
 
-More: https://fastapi.tiangolo.com/tutorial/
+# Tutorial: 
+https://fastapi.tiangolo.com/tutorial/
